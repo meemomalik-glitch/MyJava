@@ -5,7 +5,7 @@ public class Arraylistdemo {
     //also git can tracks my updates
     //but we have to give the new file to git
     /* here new file is "Arraylistdemo"
-
+git commit -m " " (to save it as a new version)
      */
 
     public static void main(String[] args) {
